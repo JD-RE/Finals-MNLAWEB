@@ -1,0 +1,57 @@
+.cat{
+	display: inline-block;
+	width: 5cm;
+	background-color: black;
+	font-size: 1.5em;
+	color: white;
+	margin-top: 4rem;
+	margin-left: 3rem;
+	margin-right: 3rem;
+	margin-bottom: 1rem;
+	padding: 20px;
+	text-decoration: none;
+	text-align: center;
+}
+
+.spacediv{
+    width: 100%;
+    height: 3rem;
+    background-color: rgba(0, 0, 0, 0.1);
+    border: solid rgba(0, 0, 0, .15);        
+	border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .5), inset 0 .125em .5em rgba(0, 0, 0, .20);
+}
+
+.catbg{
+	background-color: gray;	
+	padding-top: 2rem;
+	padding-bottom: 2 rem;
+	padding-left: 3rem;
+	padding-right: 3rem;
+	text-align: center;
+}
+
+.prod{
+	display: inline-block;
+	width: 20rem;
+	background-color: black;
+	font-size: 1.5em;
+	color: white;
+	padding: 30px;
+	margin-top: 2rem;
+	text-decoration: none;
+	text-align: center;
+}
+
+.prodbg{
+	background-color: rgb(75, 75, 75);
+	padding-top: 2rem;
+	padding-bottom: 2 rem;
+	padding-left: 3rem;
+	padding-right: 3rem;
+	text-align: center;
+}
+
+.bttt{
+	padding: 2rem;
+}
