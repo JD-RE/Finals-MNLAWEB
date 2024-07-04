@@ -1,0 +1,41 @@
+.titlecard{
+	background-color: white;
+	padding: 2%;
+	border: 0.3em double black;
+	margin-top: 3%;
+	text-align: center;
+	max-width: 100%;
+}
+
+.abtright{
+	background-color: white;
+	padding: 2%;
+	border: 0.8em double black;
+	margin-top: 4%;
+	text-align: right;
+	margin-left: 30%;
+	max-width: 100%;
+	font-size: 2vw
+}
+
+.abtleft{
+	background-color: white;
+	padding: 2%;
+	border: 0.8em double black;
+	margin-top: 4%;
+	text-align: left;
+	margin-right: 30%;
+	max-width: 100%;
+	font-size: 2vw;
+}
+
+.footervw{
+	font-size: 1vw;
+	color: grey;
+	text-decoration: none;
+}
+
+.hea{
+	
+}
+

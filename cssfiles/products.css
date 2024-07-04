@@ -1,0 +1,79 @@
+.cat{
+	display: inline-block;
+	width: 15%;
+	background-color: black;
+	font-size: 1.5vw;
+	color: white;
+	margin-top: 5%;
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-bottom: 1%;
+	padding: 1%;
+	text-decoration: none;
+	text-align: center;
+}
+
+.spacediv{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+    border: solid rgba(0, 0, 0, .15);        
+	border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .5), inset 0 .125em .5em rgba(0, 0, 0, .20);
+}
+
+.catbg{
+	background-color: gray;	
+	padding-top: 2rem;
+	padding-bottom: 2 rem;
+	padding-left: 3rem;
+	padding-right: 3rem;
+	text-align: center;
+}
+
+.prod{
+	display: inline-block;
+	width: 23%;
+	background-color: black;
+	color: white;
+	padding: 3%;
+	margin-top: 3%;
+	text-decoration: none;
+	text-align: center;
+}
+
+.prodbg{
+	background-color: rgb(75, 75, 75);
+	padding-top: 2rem;
+	padding-bottom: 2 rem;
+	padding-left: 3rem;
+	padding-right: 3rem;
+	text-align: center;
+}
+
+.bttt{
+	padding: 2rem;
+}
+
+.hep{
+	font-size: 4vw;
+}
+
+.nep{
+	font-size: 2.3vw;
+}
+
+.pep{
+	font-size: 1.5vw; 
+}
+
+body {
+  background-color: rgba(100,100,100);
+  max-width: 100%;
+}
+
+.footervw{
+	font-size: 1vw;
+	color: grey;
+	text-decoration: none;
+}
+
